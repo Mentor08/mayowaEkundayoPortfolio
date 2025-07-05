@@ -6,7 +6,7 @@ const projects = [
     title: "QA Portfolio Website",
     description: "Fully responsive animated portfolio built using Next.js, TailwindCSS, and Framer Motion.",
     stack: "Next.js • TailwindCSS • Framer Motion",
-    link: "https://mentor08.github.io/Ekundayo-mayowa-QA-portfolio/"
+    link: "https://mayowa-ekundayo-portfolio.vercel.app/"
   },
   {
     title: "Cypress Automation Suite",
